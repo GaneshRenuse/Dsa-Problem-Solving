@@ -1,3 +1,3 @@
-# Data Structures and Algorithms Codes
+# DSA Problem Solving 
 
 In this repository I will upload Data structurs and Algorithm related codes.
