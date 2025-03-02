@@ -40,5 +40,8 @@ public class Problem9 {
     public static void main(String[] args) {
         int[] prices = {7,1,5,3,6,4};
         System.out.println(maxProfit(prices)); // Output: 5
+
+        int[] testcase2 = {7,6,4,3,1};
+        System.out.println(maxProfit(testcase2)); // Output: 0
     }
 }
