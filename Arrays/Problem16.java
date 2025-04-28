@@ -21,7 +21,7 @@ public class Problem16 {
         Integer first = null, second = null, third = null;
 
         for (int num : nums) {
-            if (Objects.equals(num, first) || Objects.equals(num, second) || Objects.equals(num, third)) {
+            if ((first != null && num == first) || (second != null && num == second) || (third != null && num == third)) {
                 continue;
             }
 
