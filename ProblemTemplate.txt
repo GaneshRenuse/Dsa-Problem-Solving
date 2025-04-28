@@ -1,0 +1,20 @@
+Problem Statement:
+
+Example 1:
+Input:
+Output:
+Explanation:
+
+Constraints:
+
+Hints/Tips:
+
+public class problemName {
+    public static void methodName(parameters){ // Function to solve the problem
+
+    }
+
+    public static void main(String[] args) {
+        // Testcases and function calls can be added here
+    }
+}
