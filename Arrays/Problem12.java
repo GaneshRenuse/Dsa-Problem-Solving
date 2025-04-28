@@ -39,10 +39,10 @@ public class Problem12 {
     }
     public static void main(String[] args) {
         int[] testcase1 = {1,2,3,1};
-        System.out.println(containsDuplicate(nums));
+        System.out.println(containsDuplicate(testcase1));
 
         int[] testcase2 = {1,2,3,4};
-        System.out.println(containsDuplicate(nums));
+        System.out.println(containsDuplicate(testcase2));
 
         //test your own testcases
     }
