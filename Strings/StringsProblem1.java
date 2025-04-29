@@ -15,6 +15,6 @@ import java.util.*;
 
 class StringsProblem1 {
     public static void main(String[] args) {
-
+        System.out.println("Hello, World!");
     }
 }
